@@ -168,3 +168,26 @@ main section{
 .resume-download{
     margin-top: 50px;
 }
+/* footer style */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 115px;
+}
+
+.footer-column{
+    width: 50%;
+}
+
+.input-text ,footer textarea{
+    display: block;
+    height: 64px;
+    background-color: #FFFFFF;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 25px;
+    margin-bottom: 24px;
+    color:  #474747;
+
+}
